@@ -1,0 +1,27 @@
+# IDEA
+.idea
+.idea.*.php
+
+# PROJECT
+/tunnel.yaml
+
+/public/hot
+/public/build
+/public/vendor
+/public/storage
+
+/storage/*.key
+/storage/*.log
+
+/vendor
+/node_modules
+/resources/asset/script/ziggy.js
+
+.env
+.env.backup
+.env.testing
+.env.production
+.phpunit.result.cache
+
+# ERROR LOGS
+*.log
