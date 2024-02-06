@@ -80,7 +80,7 @@ or run in post directly:
 ### 6. Run PHPUnit Tests (Optional)
 
 ```
-php artisan test
+php artisan test --coverage
 ```
 
 ### 7. Run Local Server
